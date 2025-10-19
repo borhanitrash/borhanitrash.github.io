@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "rahman's homepage"
+title                    : "Rahman's homepage"
 title_separator          : "-"
 name                     : &name "Md. Abdur Rahman"
 description              : &description "personal description"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "rahman.png"
   name             : "Md. Abdur Rahman"
   pronouns         : # example: "she/her"  
-  bio              : "AI Researcher (CV, NLP, LLM"
+  bio              : "AI Researcher (CV, NLP, LLM)"
   location         : "Dhaka, Bangladesh"
   employer         : "FinTech Research CI Lab, IUT"
   uri              : # URL
