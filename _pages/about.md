@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hello there, I'm Rahman!"
+title: "👋🏼 Hello there"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,23 +8,24 @@ redirect_from:
   - /about.html
 ---
 
+I am **Md. Abdur Rahman**, a **Kaggle Dataset Grandmaster** and **Research Assistant at the FinTech Research CI Lab, IUT**. I am currently pursuing a **B.Sc. in Computer Science and Engineering** at **Southeast University, Bangladesh**, currently have **3.86 CGPA**. I am also ranked **30th worldwide** in the Kaggle Datasets category.  
 
+My research interests lie broadly in **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**, with a particular focus on:  
 
-👨🏻‍💻 I'm a Research Assistant at FinTech Research CI Lab, IUT.
+- Computer Vision and Medical Image Analysis   
+- NLP for low Resourced Language
+- Agentic SLM
 
-My research interests are in Openended Learning using large foundation models!
+My current goal is to publish impactful research papers in **top-tier CORE A*/A conferences** and continue developing **efficient, high-accuracy AI models** that address real-world challenges, particularly in **healthcare and low-resource environments**.  
 
-I am also interested in assisting others on their path in the world of Machine Learning and academia.
 
 ## 📰 News
 
-**Jun 13, 2023**   🎉 Our paper *“VIPER: Spotting Syscall-Guard Variables for Data-Only Attacks”* has been accepted by **USENIX 2023**.
+**Oct 17, 2025**   🎉 Our paper *“AlzFed-XAI: High-Fidelity Interpretable Alzheimer’s Diagnosis with Privacy-Preserving Federated Learning”* has been accepted by **Muslim in ML Workshop, NeurIPS**.
 
-**May 9, 2023**   🎉 Our paper *“Can We Trust the Phone Vendors? Comprehensive Security Measurements on the Android Firmware Ecosystem”* has been accepted by **TSE 2023**.
+**Oct 1, 2025**   🎉 I started working as *Research Assistant* at **FinTech Research CI Lab, IUT**.
 
-**May 3, 2022**   🎉 Our paper *“Detecting Logical Bugs of DBMS with Coverage-based Guidance”* has been accepted by **USENIX 2022**.
 
-**Dec 3, 2021**   🎉 Our paper *“Large-scale Security Measurements on the Android Firmware Ecosystem”* has been accepted by **ICSE 2022**.
 
 
 
