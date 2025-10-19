@@ -21,9 +21,9 @@ My current goal is to publish impactful research papers in **top-tier CORE A*/A 
 
 ## 📰 News
 
-**Oct 17, 2025**   Our paper *“AlzFed-XAI: High-Fidelity Interpretable Alzheimer’s Diagnosis with Privacy-Preserving Federated Learning”* has been accepted by **Muslim in ML Workshop, NeurIPS**.
+**Oct 17, 2025**      Our paper *“AlzFed-XAI: High-Fidelity Interpretable Alzheimer’s Diagnosis with Privacy-Preserving Federated Learning”* has been accepted by **Muslim in ML Workshop, NeurIPS**.
 
-**Oct 1, 2025**   I started working as *Research Assistant* at **FinTech Research CI Lab, IUT**.
+**Oct 1, 2025**      I started working as *Research Assistant* at **FinTech Research CI Lab, IUT**.
 
 ## Publications  
 
