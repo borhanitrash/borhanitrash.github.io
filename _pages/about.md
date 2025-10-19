@@ -27,13 +27,12 @@ My current goal is to publish impactful research papers in **top-tier CORE A*/A 
 
 ## Publications
 
-### ![USENIX '23](/images/profile.png)
+### ![NeurIPS'25](/images/MuslimInML.png)
 
-**VIPER: Spotting Syscall-Guard Variables for Data-Only Attacks**  
-<span style="color:blue;">Hengkai Ye</span>, Song Liu, Zhechang Zhang, and Hong Hu  
-*In Proceedings of the 32nd USENIX Security Symposium (USENIX)*, 2023  
-
-[**ABSTRACT**](https://example.com/viper-abstract) [**BIB**](https://example.com/viper-bibtex) [**PDF**](https://example.com/viper-paper.pdf)
+**AlzFed-XAI: High-Fidelity Interpretable Alzheimer’s Diagnosis with Privacy Preserving Federated Learning**  
+*Md. Abdur Rahman*, Md. Tofael Ahmed Bhuiyan, Abdul Kadar Muhammad Masum  
+*5th Muslims in ML Workshop co-located with NeurIPS 2025*  
+[**PDF**](/files/AlzFed_XAI.pdf)
 
 
 
