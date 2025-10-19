@@ -16,14 +16,13 @@ My research interests lie broadly in **Artificial Intelligence**, **Machine Lear
 - NLP for Low Resourced Language
 - Agentic SLM
 
-My current goal is to publish impactful research papers in **top-tier CORE A*/A conferences** and continue developing **efficient, high-accuracy AI models** that address real-world challenges, particularly in **healthcare and low-resource environments**.  
+My current goal is to publish impactful research papers in top-tier CORE A*/A conferences and continue developing **efficient, high-accuracy AI models** that address real-world challenges, particularly in **healthcare and low-resource environments**.  
 
 
 ## 📰 News
 
-**Oct 17, 2025**      Our paper *“AlzFed-XAI: High-Fidelity Interpretable Alzheimer’s Diagnosis with Privacy-Preserving Federated Learning”* has been accepted by **Muslim in ML Workshop, NeurIPS**.
-
-**Oct 1, 2025**      I started working as *Research Assistant* at **FinTech Research CI Lab, IUT**.
+**Oct 17, 2025 :**   Our paper *“AlzFed-XAI: High-Fidelity Interpretable Alzheimer’s Diagnosis with Privacy-Preserving Federated Learning”* has been accepted by **Muslim in ML Workshop, NeurIPS**.  
+**Oct 1, 2025 :**   I started working as *Research Assistant* at **FinTech Research CI Lab, IUT**.
 
 ## Publications  
 
