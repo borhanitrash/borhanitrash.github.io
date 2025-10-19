@@ -25,6 +25,16 @@ My current goal is to publish impactful research papers in **top-tier CORE A*/A 
 
 **Oct 1, 2025**   🎉 I started working as *Research Assistant* at **FinTech Research CI Lab, IUT**.
 
+## Publications
+
+### ![USENIX '23](/images/profile.png)
+
+**VIPER: Spotting Syscall-Guard Variables for Data-Only Attacks**  
+<span style="color:blue;">Hengkai Ye</span>, Song Liu, Zhechang Zhang, and Hong Hu  
+*In Proceedings of the 32nd USENIX Security Symposium (USENIX)*, 2023  
+
+[**ABSTRACT**](https://example.com/viper-abstract) [**BIB**](https://example.com/viper-bibtex) [**PDF**](https://example.com/viper-paper.pdf)
+
 
 
 
