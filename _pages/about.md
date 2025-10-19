@@ -27,7 +27,7 @@ My current goal is to publish impactful research papers in **top-tier CORE A*/A 
 
 ## Publications  
 
-<span style="color:#D8BFD8;">**AlzFed-XAI: High-Fidelity Interpretable Alzheimer’s Diagnosis with Privacy Preserving Federated Learning**</span>  
+<span style="color:#BA55D3;">**AlzFed-XAI: High-Fidelity Interpretable Alzheimer’s Diagnosis with Privacy Preserving Federated Learning**</span>  
 <span style="color:skyblue;">*Md. Abdur Rahman*</span>, Md. Tofael Ahmed Bhuiyan, Abdul Kadar Muhammad Masum  
 *5th Muslims in ML Workshop co-located with NeurIPS 2025*  
 [**PDF**](/files/AlzFed_XAI.pdf)
