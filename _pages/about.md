@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there"
+title: "Hello there,"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -24,7 +24,7 @@ My current goal is to publish impactful research papers in top-tier CORE A*/A co
 **Oct 17, 2025 :**   Our paper *“AlzFed-XAI: High-Fidelity Interpretable Alzheimer’s Diagnosis with Privacy-Preserving Federated Learning”* has been accepted by **Muslim in ML Workshop, NeurIPS**.  
 **Oct 1, 2025 :**   I started working as *Research Assistant* at **FinTech Research CI Lab, IUT**.
 
-## 📓 Publications  
+## 📓 Published / Accepted Publications  
 
 <span style="color:#B454CB;">**AlzFed-XAI: High-Fidelity Interpretable Alzheimer’s Diagnosis with Privacy Preserving Federated Learning**</span>  
 <span style="color:skyblue;">*Md. Abdur Rahman*</span>, Md. Tofael Ahmed Bhuiyan, Abdul Kadar Muhammad Masum  
@@ -88,28 +88,52 @@ Md. Al Amin∗, Sabik Aftahee∗, <span style="color:skyblue;">*Md. Abdur Rahman
 [**PDF**](/files/Caste_Tamil LDK 25.pdf)   
 
 
+## 📘 Under Review Publications   
 
+<span style="color:#B454CB;">**MangoLeafNet-XAI: An Attention-Enhanced Deep Learning Architecture for Accurate and Interpretable Mango Leaf Disease Classification**</span>  
+<span style="color:skyblue;">*1st Author*</span>  
+*Submitted to Future Generation Computer Systems — Journal*   
 
+<span style="color:#B454CB;">**FedMal-XAI: An Explainable Federated Vision Transformer Leveraging Knowledge Distillation for Privacy-Preserving Malaria Detection**</span>  
+<span style="color:skyblue;">*2nd Author*</span>  
+*Submitted to Information Fusion — Journal*
 
+<span style="color:#B454CB;">**ChakmaBridge: A Five-Way Parallel Corpus for Navigating the Script Divide in an Endangered Language**</span>  
+<span style="color:skyblue;">*1st Author*</span>  
+*Submitted to Second Bangla Language Processing Workshop co-located with AACL-IJCNLP*
 
+<span style="color:#B454CB;">**BhasaBodh: Bridging Bangla Dialects and Romanized Forms through Machine Translation**</span>  
+<span style="color:skyblue;">*2nd Author*</span>  
+*Submitted to Second Bangla Language Processing Workshop co-located with AACL-IJCNLP*
 
+<span style="color:#B454CB;">**SmishGuard: An Interpretable Transformer Ensemble Framework for Bangla Smishing Detection**</span>  
+<span style="color:skyblue;">*1st Author*</span>  
+*Submitted to 6th IEEE International Conference on Telecommunications and Photonics (ICTP 2025)*
 
+<span style="color:#B454CB;">**X-ArsenicDistill: An Efficient and Interpretable Framework for Arsenicosis Classification via Knowledge Distillation**</span>  
+<span style="color:skyblue;">*1st Author*</span>  
+*Submitted to 28th International Conference on Computer and Information Technology (ICCIT 2025)*
 
+<span style="color:#B454CB;">**MalariaNet-XAI: An Explainable Deep Ensemble Framework for Accurate Malaria Detection**</span>  
+<span style="color:skyblue;">*1st Author*</span>  
+*Submitted to 28th International Conference on Computer and Information Technology (ICCIT 2025)*
 
+<span style="color:#B454CB;">**Advancing Military Cybersecurity: A Scalable Ensemble Framework with SHAP Analysis for Military Operations**</span>  
+<span style="color:skyblue;">*2nd Author*</span>  
+*Submitted to 6th IEEE International Conference on Telecommunications and Photonics (ICTP 2025)*
 
+<span style="color:#B454CB;">**SentimentFusion-Net: A Hybrid ML-DL Framework for Benchmarking ChatGPT User Opinions on Twitter**</span>  
+<span style="color:skyblue;">*2nd Author*</span>  
+*Submitted to 28th International Conference on Computer and Information Technology (ICCIT 2025)*   
 
+<span style="color:#B454CB;">**FedNetXAI: Privacy-Preserving Federated EfficientNet B4 for Multi-Class Alzheimer’s Disease Classification with Explainable AI**</span>  
+<span style="color:skyblue;">*2nd Author*</span>  
+*Submitted to 12th International Conference on Next-generation Computing, Communication, Systems and Security (NSysS 2025)*   
 
+<span style="color:#B454CB;">**FabXAI-Net: An Attention-Enhanced Custom CNN Framework with Explainable AI for Fabric Fault Detection**</span>  
+<span style="color:skyblue;">*3rd Author*</span>  
+*Submitted to 7th IEEE International Conference on Sustainable Technologies for Industry 5.0 (STI 2025)*  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<span style="color:#B454CB;">**DeepSea-Net: A YOLO Based Framework for Real-Time Detection and Classification of Underwater Plastic Pollution**</span>  
+<span style="color:skyblue;">*4th Author*</span>  
+*Submitted to 7th International Conference on Sustainable Technologies for Industry 5.0 (2025)*   
