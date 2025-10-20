@@ -57,24 +57,24 @@ My current goal is to publish impactful research papers in top-tier CORE A*/A co
 [**PDF**](/files/17_SmolLab_SEU_at_MAHED_2025_D.pdf)    
 
 <span style="color:#B454CB;">**FedAvg-ResNet50: Privacy-Preserving Explainable Acute Leukemia Classification**</span>  
-<span style="color:skyblue;">*Md. Tofael Ahmed Bhuiyan*</span>, Md. Abdur Rahman, Zakir Hossain, Md. Fokrul Islam Khan, Abdul Kadar Muhammad Masum  
+Md. Tofael Ahmed Bhuiyan, <span style="color:skyblue;">*Md. Abdur Rahman*</span>, Zakir Hossain, Md. Fokrul Islam Khan, Abdul Kadar Muhammad Masum  
 *5th International Conference on Applied Intelligence and Informatics (AII 2025, USA)*  
 [**PDF**](/files/Leukemia using FedAvg+ResNet50 AII25.pdf)  
 
 <span style="color:#B454CB;">**PneumoniaXAttnNet: An Attention-Driven Xception Framework for Accurate Pneumonia Classification with XAI**</span>  
-<span style="color:skyblue;">*Tanvir Ahmed*</span>, Md. Abdur Rahman, Md. Delower Hossain, Yousuf Howlader, Md. Mahi Uddin, Md. Tajuddin, Md. Illeas Hossain, Md. Mijanur Rahman  
+Tanvir Ahmed, <span style="color:skyblue;">*Md. Abdur Rahman*</span>, Md. Delower Hossain, Yousuf Howlader, Md. Mahi Uddin, Md. Tajuddin, Md. Illeas Hossain, Md. Mijanur Rahman  
 *2nd IEEE Conference on Computing Applications and Systems (COMPAS 2025)*  
 [**PDF**](/files/Lung_Pneumonia__Review final.pdf)   
 
 <span style="color:#B454CB;">**CerviTrans-XAI: An Explainable Vision Transformer Ensemble for Accurate Cervical Cancer Classification**</span>  
-<span style="color:skyblue;">*Md. Delower Hossain*</span>, Md. Mijanur Rahman, Md. Abdur Rahman, Tanvir Ahmed, Sujay Dhar, Ornab Biswass  
+Md. Delower Hossain, Md. Mijanur Rahman, <span style="color:skyblue;">*Md. Abdur Rahman*</span>, Tanvir Ahmed, Sujay Dhar, Ornab Biswass  
 *2nd IEEE Conference on Computing Applications and Systems (COMPAS 2025)*  
 [**PDF**](/files/Cervical final.pdf)   
 
 <span style="color:#B454CB;">**SmolLab SEU at CheckThat! 2025: How Well Do Multilingual Transformers Transfer Across News Domains for Cross-lingual Subjectivity Detection?**</span>  
 <span style="color:skyblue;">*Md. Abdur Rahman*</span>, Md. Al Amin, Md. Sabbir Dewan, Md. Jahid Hasan, Md. Ashiqur Rahman  
 *CheckThat! Lab Workshop, 16th Conference and Labs of the Evaluation Forum*  
-[**Paper**](/files/CheckThat Lab_at_CLEF_2025.pdf)   
+[**PDF**](/files/CheckThat Lab_at_CLEF_2025.pdf)   
 
 <span style="color:#B454CB;">**Hinterwelt@LT-EDI 2025: A Transformer-Based Approach for Identifying Racial Hoaxes in Code-Mixed Hindi-English Social Media Narratives**</span>  
 <span style="color:skyblue;">*Md. Abdur Rahman*</span>, Md. Al Amin, Sabik Aftahee, Md. Ashiqur Rahman  
@@ -82,10 +82,12 @@ My current goal is to publish impactful research papers in top-tier CORE A*/A co
 [**PDF**](/files/SOCIAL_MEDIA LDK 25.pdf)   
 
 <span style="color:#B454CB;">**Hinterwelt@LT-EDI 2025: A Transformer-Based Detection of Caste and Migration Hate Speech in Tamil Social Media**</span>  
-<span style="color:skyblue;">*Md. Al Amin*</span>∗, Sabik Aftahee∗, Md. Abdur Rahman∗, Md. Sajid Hossain Khan, Md. Ashiqur Rahman  
+Md. Al Amin∗, Sabik Aftahee∗, <span style="color:skyblue;">*Md. Abdur Rahman*</span>∗, Md. Sajid Hossain Khan, Md. Ashiqur Rahman  
 *LT-EDI Workshop, 5th Conference on Language, Data and Knowledge*  
 ∗Authors contributed equally to this work.  
-[**PDF**](/files/Caste_Tamil LDK 25.pdf)  
+[**PDF**](/files/Caste_Tamil LDK 25.pdf)   
+
+
 
 
 
