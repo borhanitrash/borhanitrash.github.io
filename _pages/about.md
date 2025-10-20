@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hello there"
+title: "Hello there"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -59,7 +59,7 @@ My current goal is to publish impactful research papers in top-tier CORE A*/A co
 <span style="color:#B454CB;">**FedAvg-ResNet50: Privacy-Preserving Explainable Acute Leukemia Classification**</span>  
 Md. Tofael Ahmed Bhuiyan, <span style="color:skyblue;">*Md. Abdur Rahman*</span>, Zakir Hossain, Md. Fokrul Islam Khan, Abdul Kadar Muhammad Masum  
 *5th International Conference on Applied Intelligence and Informatics (AII 2025, USA)*  
-[**PDF**](/files/Leukemia using FedAvg+ResNet50 AII25.pdf)  
+[**PDF**](/files/Leukemia using FedAvg+ResNet50 AII25 .pdf)  
 
 <span style="color:#B454CB;">**PneumoniaXAttnNet: An Attention-Driven Xception Framework for Accurate Pneumonia Classification with XAI**</span>  
 Tanvir Ahmed, <span style="color:skyblue;">*Md. Abdur Rahman*</span>, Md. Delower Hossain, Yousuf Howlader, Md. Mahi Uddin, Md. Tajuddin, Md. Illeas Hossain, Md. Mijanur Rahman  
