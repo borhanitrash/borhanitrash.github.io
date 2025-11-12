@@ -21,7 +21,11 @@ My current goal is to publish impactful research papers in top-tier CORE A*/A co
 
 ## 📰 News
 
-**Oct 17, 2025 :**   Our paper *“AlzFed-XAI: High-Fidelity Interpretable Alzheimer’s Diagnosis with Privacy-Preserving Federated Learning”* has been accepted by **Muslim in ML Workshop, NeurIPS**.  
+**Nov 6, 2025 :**   Our paper *“ChakmaBridge: A Five-Way Parallel Corpus for Navigating the Script Divide in an Endangered Language”* (**1st Author**) has been accepted by **Second Bangla Language Processing Workshop (BLP 2025) at AACL-IJCNLP 2025**.  
+
+**Nov 6, 2025 :**   Our paper *“BhasaBodh: Bridging Bangla Dialects and Romanized Forms through Machine Translation”* (**1st Co-Author**) has been accepted by **Second Bangla Language Processing Workshop (BLP 2025) at AACL-IJCNLP 2025**.  
+
+**Oct 17, 2025 :**   Our paper *“AlzFed-XAI: High-Fidelity Interpretable Alzheimer’s Diagnosis with Privacy-Preserving Federated Learning”* (**1st Author**) has been accepted by **Muslim in ML Workshop, NeurIPS**.  
 
 **Oct 7, 2025 :**   Reviewed *two papers* for **Muslim in ML Workshop, NeurIPS**.  
 
