@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Md. Abdur Rahman**, a **Kaggle Dataset Grandmaster** and **Research Assistant at the FinTech Research CI Lab, IUT**. I am currently pursuing a **B.Sc. in Computer Science and Engineering** at **Southeast University, Bangladesh**, currently have **3.86 CGPA**. I am also ranked **30th worldwide** in the Kaggle Datasets category.  
+I am **Md. Abdur Rahman**, a **Kaggle Dataset Grandmaster** and former **Research Assistant at the FinTech Research CI Lab, IUT**. I have recently completed my **B.Sc. in Computer Science and Engineering** at **Southeast University, Bangladesh**, graduating with a **CGPA of 3.87**. I am also ranked **30th worldwide** in the Kaggle Datasets category.
 
 My research interests lie broadly in **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**, with a particular focus on:  
 
