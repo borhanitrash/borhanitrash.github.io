@@ -38,6 +38,16 @@ My current goal is to publish impactful research papers in top-tier CORE A*/A co
 *5th Muslims in ML Workshop co-located with NeurIPS 2025*  
 [**PDF**](/files/AlzFed_XAI.pdf)   
 
+<span style="color:#ffdb56;">**ChakmaBridge: A Five-Way Parallel Corpus for Navigating the Script Divide in an Endangered Language (Accepted)**</span>  
+<span style="color:#51ccff;">*Md. Abdur Rahman*</span>, Md. Tofael Ahmed Bhuiyan, Abdul Kadar Muhammad Masum  
+*Second Bangla Language Processing Workshop co-located with AACL-IJCNLP*  
+[**PDF**](/files/ChakmaBridge [Camera Ready].pdf)   
+
+<span style="color:#ffdb56;">**BhasaBodh: Bridging Bangla Dialects and Romanized Forms through Machine Translation (Accepted)**</span>  
+Md. Tofael Ahmed Bhuiyan, <span style="color:#51ccff;">*Md. Abdur Rahman*</span>, Abdul Kadar Muhammad Masum  
+*Second Bangla Language Processing Workshop co-located with AACL-IJCNLP*  
+[**PDF**](/files/BhashaBodh [Camera Ready].pdf)
+
 <span style="color:#ffdb56;">**Detecting Manipulation in Ukrainian Telegram: A Transformer-Based Approach to Technique Classification and Span Identification**</span>  
 <span style="color:#51ccff;">*Md. Abdur Rahman*</span>, Md. Ashiqur Rahman  
 *Proceedings of the Fourth Ukrainian Natural Language Processing Workshop (UNLP 2025), Association for Computational Linguistics*  
