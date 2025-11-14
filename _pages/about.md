@@ -88,6 +88,16 @@ Md. Delower Hossain, Md. Mijanur Rahman, <span style="color:#51ccff;">*Md. Abdur
 *2nd IEEE Conference on Computing Applications and Systems (COMPAS 2025)*  
 [**PDF**](/files/Cervical final.pdf)   
 
+<span style="color:#ffdb56;">**Advancing Military Cybersecurity: A Scalable Ensemble Network Intrusion Detection System Framework with SHAP Analysis for Military Operations (Accepted)**</span>  
+Md. Tofael Ahmed Bhuiyan, <span style="color:#51ccff;">*Md. Abdur Rahman*</span>, Prof. Dr. Abdul Kadar Muhammad Masum, Arif Hossen, Md Ruhul Rabbi  
+*6th IEEE International Conference on Telecommunications and Photonics (ICTP 2025)*  
+[**PDF**](/files/BUET ICTP 2025 orginal.pdf)
+
+<span style="color:#ffdb56;">**DeepSea-Net: A YOLO Based Framework for Real-Time Detection and Classification of Underwater Plastic Pollution (Accepted)**</span>  
+Progga Parmita Roy, Sabbir Sarder Munna, Md. Sazed Ul Karim, <span style="color:#51ccff;">*Md. Abdur Rahman*</span>, Md. Tofael Ahmed Bhuiyan, Md. Joseb Siddique Siam  
+*2025 IEEE 7th International Conference on Sustainable Technologies for Industry 5.0 (STI 2025)*  
+[**PDF**](/files/DeepSea_Net.pdf)
+
 <span style="color:#ffdb56;">**SmolLab SEU at CheckThat! 2025: How Well Do Multilingual Transformers Transfer Across News Domains for Cross-lingual Subjectivity Detection?**</span>  
 <span style="color:#51ccff;">*Md. Abdur Rahman*</span>, Md. Al Amin, Md. Sabbir Dewan, Md. Jahid Hasan, Md. Ashiqur Rahman  
 *CheckThat! Lab Workshop, 16th Conference and Labs of the Evaluation Forum*  
@@ -109,19 +119,27 @@ Md. Al Amin∗, Sabik Aftahee∗, <span style="color:#51ccff;">*Md. Abdur Rahman
 
 <span style="color:#ffdb56;">**MangoLeafNet-XAI: An Attention-Enhanced Deep Learning Architecture for Accurate and Interpretable Mango Leaf Disease Classification**</span>  
 <span style="color:#51ccff;">*1st Author*</span>  
-*Submitted to Future Generation Computer Systems — Journal*   
+*Submitted to Future Generation Computer Systems (Q1 Journal)*
+
+<span style="color:#ffdb56;">**BEACON: A Novel Cross-Modal Architecture for High-Precision and Explainable Brain Tumor Classification Using Medical-Specific Attention**</span>  
+<span style="color:#51ccff;">*1st Author*</span>  
+*Submitted to International Journal of Intelligent Systems (Q1 Journal)*
+
+<span style="color:#ffdb56;">**HybridTransUNet: Fusing Vision Transformers with Attentive U-Net for Accurate and Interpretable Brain Tumor Segmentation**</span>  
+<span style="color:#51ccff;">*1st Author*</span>  
+*Submitted to International Journal of Intelligent Systems (Q1 Journal)*
 
 <span style="color:#ffdb56;">**FedMal-XAI: An Explainable Federated Vision Transformer Leveraging Knowledge Distillation for Privacy-Preserving Malaria Detection**</span>  
 <span style="color:#51ccff;">*2nd Author*</span>  
-*Submitted to Information Fusion — Journal*
+*Submitted to Information Fusion (Q1 Journal)*
 
-<span style="color:#ffdb56;">**ChakmaBridge: A Five-Way Parallel Corpus for Navigating the Script Divide in an Endangered Language**</span>  
-<span style="color:#51ccff;">*1st Author*</span>  
-*Submitted to Second Bangla Language Processing Workshop co-located with AACL-IJCNLP*
+<span style="color:#ffdb56;">**Super Learner: A Stacking Ensemble with Explainable AI for High-Fidelity Multi-Target ESG Forecasting**</span>  
+<span style="color:#51ccff;">*3rd Author*</span>  
+*Submitted to MIS Quarterly (Q1 Journal)*
 
-<span style="color:#ffdb56;">**BhasaBodh: Bridging Bangla Dialects and Romanized Forms through Machine Translation**</span>  
-<span style="color:#51ccff;">*2nd Author*</span>  
-*Submitted to Second Bangla Language Processing Workshop co-located with AACL-IJCNLP*
+<span style="color:#ffdb56;">**Quantifying Corporate Resilience: How Governance Attributes and ESG-Stack Prediction Drive Financial Stability in a Multi-Sector Context**</span>  
+<span style="color:#51ccff;">*3rd Author*</span>  
+*Submitted to Applied Soft Computing (Q1 Journal)*
 
 <span style="color:#ffdb56;">**SmishGuard: An Interpretable Transformer Ensemble Framework for Bangla Smishing Detection**</span>  
 <span style="color:#51ccff;">*1st Author*</span>  
@@ -135,22 +153,6 @@ Md. Al Amin∗, Sabik Aftahee∗, <span style="color:#51ccff;">*Md. Abdur Rahman
 <span style="color:#51ccff;">*1st Author*</span>  
 *Submitted to 28th International Conference on Computer and Information Technology (ICCIT 2025)*
 
-<span style="color:#ffdb56;">**Advancing Military Cybersecurity: A Scalable Ensemble Framework with SHAP Analysis for Military Operations**</span>  
-<span style="color:#51ccff;">*2nd Author*</span>  
-*Submitted to 6th IEEE International Conference on Telecommunications and Photonics (ICTP 2025)*
-
 <span style="color:#ffdb56;">**SentimentFusion-Net: A Hybrid ML-DL Framework for Benchmarking ChatGPT User Opinions on Twitter**</span>  
 <span style="color:#51ccff;">*2nd Author*</span>  
 *Submitted to 28th International Conference on Computer and Information Technology (ICCIT 2025)*   
-
-<span style="color:#ffdb56;">**FedNetXAI: Privacy-Preserving Federated EfficientNet B4 for Multi-Class Alzheimer’s Disease Classification with Explainable AI**</span>  
-<span style="color:#51ccff;">*2nd Author*</span>  
-*Submitted to 12th International Conference on Next-generation Computing, Communication, Systems and Security (NSysS 2025)*   
-
-<span style="color:#ffdb56;">**FabXAI-Net: An Attention-Enhanced Custom CNN Framework with Explainable AI for Fabric Fault Detection**</span>  
-<span style="color:#51ccff;">*3rd Author*</span>  
-*Submitted to 7th IEEE International Conference on Sustainable Technologies for Industry 5.0 (STI 2025)*  
-
-<span style="color:#ffdb56;">**DeepSea-Net: A YOLO Based Framework for Real-Time Detection and Classification of Underwater Plastic Pollution**</span>  
-<span style="color:#51ccff;">*4th Author*</span>  
-*Submitted to 7th International Conference on Sustainable Technologies for Industry 5.0 (2025)*   
