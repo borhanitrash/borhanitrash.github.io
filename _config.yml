@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "AI Researcher (CV, NLP, LLM)"
   location         : "Dhaka, Bangladesh"
-  employer         : "FinTech Research CI Lab, IUT"
+  employer         : "Islamic University of Technology-IUT, OIC"
   uri              : # URL
   email            : "abdurrahman.etc@gmail.com" 
 
@@ -49,7 +49,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "borhanitrash"
-  kaggle           : "borhanitrash" # Username  
+  kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "borhanitrash" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
