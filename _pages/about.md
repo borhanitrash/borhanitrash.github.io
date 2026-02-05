@@ -8,18 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am **Md. Abdur Rahman**, a **Kaggle Dataset Grandmaster** and former **Research Assistant at the FinTech Research CI Lab, IUT**. I have recently completed my **B.Sc. in Computer Science and Engineering** at **Southeast University, Bangladesh**, graduating with a **CGPA of 3.87**. I am also ranked **30th worldwide** in the Kaggle Datasets category.
+I am **Md. Abdur Rahman**, a **Kaggle Dataset Grandmaster** and **Research Assistant at Islamic University of Technology-IUT, OIC**. I have recently completed my **B.Sc. in Computer Science and Engineering** at **Southeast University, Bangladesh**, graduating with a **CGPA of 3.87**. 
 
 My research interests lie broadly in **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**, with a particular focus on:  
 
 - Computer Vision and Medical Image Analysis   
 - NLP for Low Resourced Language
-- Agentic SLM
+- AI for Fintech
 
 My current goal is to publish impactful research papers in top-tier CORE A*/A conferences and continue developing **efficient, high-accuracy AI models** that address real-world challenges, particularly in **healthcare and low-resource environments**.  
 
 
 ## 📰 News
+**Dec 28, 2025 :**   Achieved **3rd Position (Poster Presentation)** at **Student Research Day 2025, Southeast University**.
 
 **Nov 6, 2025 :**   Our paper *“ChakmaBridge: A Five-Way Parallel Corpus for Navigating the Script Divide in an Endangered Language”* (**1st Author**) has been accepted by **Second Bangla Language Processing Workshop (BLP 2025) at AACL-IJCNLP 2025**.  
 
@@ -145,14 +146,3 @@ Md. Al Amin∗, Sabik Aftahee∗, <span style="color:#51ccff;">*Md. Abdur Rahman
 <span style="color:#51ccff;">*1st Author*</span>  
 *Submitted to 6th IEEE International Conference on Telecommunications and Photonics (ICTP 2025)*
 
-<span style="color:#ffdb56;">**X-ArsenicDistill: An Efficient and Interpretable Framework for Arsenicosis Classification via Knowledge Distillation**</span>  
-<span style="color:#51ccff;">*1st Author*</span>  
-*Submitted to 28th International Conference on Computer and Information Technology (ICCIT 2025)*
-
-<span style="color:#ffdb56;">**MalariaNet-XAI: An Explainable Deep Ensemble Framework for Accurate Malaria Detection**</span>  
-<span style="color:#51ccff;">*1st Author*</span>  
-*Submitted to 28th International Conference on Computer and Information Technology (ICCIT 2025)*
-
-<span style="color:#ffdb56;">**SentimentFusion-Net: A Hybrid ML-DL Framework for Benchmarking ChatGPT User Opinions on Twitter**</span>  
-<span style="color:#51ccff;">*2nd Author*</span>  
-*Submitted to 28th International Conference on Computer and Information Technology (ICCIT 2025)*   
