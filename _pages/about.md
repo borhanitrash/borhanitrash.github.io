@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Md. Abdur Rahman**, a **Kaggle Dataset Grandmaster** and **Research Assistant at Islamic University of Technology-IUT, OIC**. I have recently completed my **B.Sc. in Computer Science and Engineering** at **Southeast University, Bangladesh**, graduating with a **CGPA of 3.87**. 
+I am **Md. Abdur Rahman**, a **Kaggle Dataset Grandmaster** and **Research Assistant at Islamic University of Technology-IUT, OIC**. I have recently completed my **B.Sc. in Computer Science and Engineering** at **Southeast University, Bangladesh**, graduating with a **CGPA of 3.87**. I am currently pursuing **M.Sc. in Engineering (CSE) at Military Institute of Science and Technology (MIST), Bangladesh**.
 
 My research interests lie broadly in **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**, with a particular focus on:  
 
@@ -20,6 +20,8 @@ My current goal is to publish impactful research papers in top-tier CORE A*/A co
 
 
 ## 📰 News
+**Apr 01, 2026 :** **"Bridging Data Silos in Corporate Governance: A Hierarchical Stacking Ensemble with Federated Dynamic Aggregation"** accepted at **Applied Computational Intelligence and Soft Computing (IF: 2.9, Q1, WoS: ESCI)**.
+
 **Dec 28, 2025 :**   Achieved **3rd Position (Poster Presentation)** at **Student Research Day 2025, Southeast University**.
 
 **Nov 6, 2025 :**   Our paper *“ChakmaBridge: A Five-Way Parallel Corpus for Navigating the Script Divide in an Endangered Language”* (**1st Author**) has been accepted by **Second Bangla Language Processing Workshop (BLP 2025) at AACL-IJCNLP 2025**.  
@@ -33,6 +35,19 @@ My current goal is to publish impactful research papers in top-tier CORE A*/A co
 **Oct 1, 2025 :**   I started working as *Research Assistant* at **FinTech Research CI Lab, IUT**.
 
 ## 📓 Published / Accepted Publications  
+<span style="color:#ffdb56;">**MangoLeafNet-XAI: An Attention-Enhanced Deep Learning Architecture for Accurate and Interpretable Mango Leaf Disease Classification**</span>  
+<span style="color:#51ccff;">*Md. Abdur Rahman*</span>, Md. Tofael Ahmed Bhuiyan, Farzan Majeed Noori, Md Zia Uddin, Abdul Kadar Muhammad Masum  
+*Frontiers in Plant Science*  
+[**PDF**](/files/mango.pdf) 
+
+<span style="color:#ffdb56;">**FedMal-XAI: An Explainable Federated Vision Transformer Leveraging Knowledge Distillation for Privacy-Preserving Malaria Detection**</span>  
+<span style="color:#51ccff;">*Md. Abdur Rahman*</span>, Md. Tofael Ahmed Bhuiyan, Md Fokrul Islam Khan, Farzan M. Noori, Abdul Kadar Muhammad Masum  
+*Frontiers in Public Health*  
+[**PDF**](/files/fedmal.pdf)
+
+<span style="color:#ffdb56;">**Bridging Data Silos in Corporate Governance: A Hierarchical Stacking Ensemble with Federated Dynamic Aggregation**</span>  
+<span style="color:#51ccff;">*Md. Abdur Rahman*</span>, Abdul Kadar Muhammad Masum, Md. Abul Kalam Azad, Md. Tofael Ahmed Bhuiyan  
+*Applied Computational Intelligence and Soft Computing*
 
 <span style="color:#ffdb56;">**AlzFed-XAI: High-Fidelity Interpretable Alzheimer’s Diagnosis with Privacy Preserving Federated Learning**</span>  
 <span style="color:#51ccff;">*Md. Abdur Rahman*</span>, Md. Tofael Ahmed Bhuiyan, Abdul Kadar Muhammad Masum  
@@ -118,10 +133,6 @@ Md. Al Amin∗, Sabik Aftahee∗, <span style="color:#51ccff;">*Md. Abdur Rahman
 
 ## 📘 Under Review Publications   
 
-<span style="color:#ffdb56;">**MangoLeafNet-XAI: An Attention-Enhanced Deep Learning Architecture for Accurate and Interpretable Mango Leaf Disease Classification**</span>  
-<span style="color:#51ccff;">*1st Author*</span>  
-*Submitted to Future Generation Computer Systems (Q1 Journal)*
-
 <span style="color:#ffdb56;">**BEACON: A Novel Cross-Modal Architecture for High-Precision and Explainable Brain Tumor Classification Using Medical-Specific Attention**</span>  
 <span style="color:#51ccff;">*1st Author*</span>  
 *Submitted to International Journal of Intelligent Systems (Q1 Journal)*
@@ -130,19 +141,5 @@ Md. Al Amin∗, Sabik Aftahee∗, <span style="color:#51ccff;">*Md. Abdur Rahman
 <span style="color:#51ccff;">*1st Author*</span>  
 *Submitted to International Journal of Intelligent Systems (Q1 Journal)*
 
-<span style="color:#ffdb56;">**FedMal-XAI: An Explainable Federated Vision Transformer Leveraging Knowledge Distillation for Privacy-Preserving Malaria Detection**</span>  
-<span style="color:#51ccff;">*2nd Author*</span>  
-*Submitted to Information Fusion (Q1 Journal)*
 
-<span style="color:#ffdb56;">**Super Learner: A Stacking Ensemble with Explainable AI for High-Fidelity Multi-Target ESG Forecasting**</span>  
-<span style="color:#51ccff;">*3rd Author*</span>  
-*Submitted to MIS Quarterly (Q1 Journal)*
-
-<span style="color:#ffdb56;">**Quantifying Corporate Resilience: How Governance Attributes and ESG-Stack Prediction Drive Financial Stability in a Multi-Sector Context**</span>  
-<span style="color:#51ccff;">*3rd Author*</span>  
-*Submitted to Applied Soft Computing (Q1 Journal)*
-
-<span style="color:#ffdb56;">**SmishGuard: An Interpretable Transformer Ensemble Framework for Bangla Smishing Detection**</span>  
-<span style="color:#51ccff;">*1st Author*</span>  
-*Submitted to 6th IEEE International Conference on Telecommunications and Photonics (ICTP 2025)*
 
