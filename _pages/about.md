@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Md. Abdur Rahman**, a **Kaggle Dataset Grandmaster** and **Research Assistant at Islamic University of Technology-IUT, OIC**. I have recently completed my **B.Sc. in Computer Science and Engineering** at **Southeast University, Bangladesh**, graduating with a **CGPA of 3.87**. I am currently pursuing **M.Sc. in Engineering (CSE) at Military Institute of Science and Technology (MIST), Bangladesh**.
+I am **Md. Abdur Rahman**, a **Kaggle Dataset Grandmaster** and **Research Assistant at Islamic University of Technology-IUT, OIC**. I have recently completed my **B.Sc. in Computer Science and Engineering** at **Southeast University, Bangladesh**, graduating with a **CGPA of 3.87**. I am currently pursuing **M.Sc. Engg in CSE at Military Institute of Science and Technology (MIST), Bangladesh**.
 
 My research interests lie broadly in **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**, with a particular focus on:  
 
@@ -20,7 +20,7 @@ My current goal is to publish impactful research papers in top-tier CORE A*/A co
 
 
 ## 📰 News
-**Apr 01, 2026 :** **"Bridging Data Silos in Corporate Governance: A Hierarchical Stacking Ensemble with Federated Dynamic Aggregation"** accepted at **Applied Computational Intelligence and Soft Computing (IF: 2.9, Q1, WoS: ESCI)**.
+**Apr 01, 2026 :** Paper **"Bridging Data Silos in Corporate Governance: A Hierarchical Stacking Ensemble with Federated Dynamic Aggregation"** accepted at **Applied Computational Intelligence and Soft Computing (IF: 2.9, Q1, WoS: ESCI)**.
 
 **Dec 28, 2025 :**   Achieved **3rd Position (Poster Presentation)** at **Student Research Day 2025, Southeast University**.
 
@@ -54,12 +54,12 @@ My current goal is to publish impactful research papers in top-tier CORE A*/A co
 *5th Muslims in ML Workshop co-located with NeurIPS 2025*  
 [**PDF**](/files/AlzFed_XAI.pdf)   
 
-<span style="color:#ffdb56;">**ChakmaBridge: A Five-Way Parallel Corpus for Navigating the Script Divide in an Endangered Language (Accepted)**</span>  
+<span style="color:#ffdb56;">**ChakmaBridge: A Five-Way Parallel Corpus for Navigating the Script Divide in an Endangered Language**</span>  
 <span style="color:#51ccff;">*Md. Abdur Rahman*</span>, Md. Tofael Ahmed Bhuiyan, Abdul Kadar Muhammad Masum  
 *Second Bangla Language Processing Workshop co-located with AACL-IJCNLP*  
 [**PDF**](/files/ChakmaBridge [Camera Ready].pdf)   
 
-<span style="color:#ffdb56;">**BhasaBodh: Bridging Bangla Dialects and Romanized Forms through Machine Translation (Accepted)**</span>  
+<span style="color:#ffdb56;">**BhasaBodh: Bridging Bangla Dialects and Romanized Forms through Machine Translation**</span>  
 Md. Tofael Ahmed Bhuiyan, <span style="color:#51ccff;">*Md. Abdur Rahman*</span>, Abdul Kadar Muhammad Masum  
 *Second Bangla Language Processing Workshop co-located with AACL-IJCNLP*  
 [**PDF**](/files/BhashaBodh [Camera Ready].pdf)
@@ -104,12 +104,12 @@ Md. Delower Hossain, Md. Mijanur Rahman, <span style="color:#51ccff;">*Md. Abdur
 *2nd IEEE Conference on Computing Applications and Systems (COMPAS 2025)*  
 [**PDF**](/files/Cervical final.pdf)   
 
-<span style="color:#ffdb56;">**Advancing Military Cybersecurity: A Scalable Ensemble Network Intrusion Detection System Framework with SHAP Analysis for Military Operations (Accepted)**</span>  
+<span style="color:#ffdb56;">**Advancing Military Cybersecurity: A Scalable Ensemble Network Intrusion Detection System Framework with SHAP Analysis for Military Operations**</span>  
 Md. Tofael Ahmed Bhuiyan, <span style="color:#51ccff;">*Md. Abdur Rahman*</span>, Prof. Dr. Abdul Kadar Muhammad Masum, Arif Hossen, Md Ruhul Rabbi  
 *6th IEEE International Conference on Telecommunications and Photonics (ICTP 2025)*  
 [**PDF**](/files/BUET ICTP 2025 orginal.pdf)
 
-<span style="color:#ffdb56;">**DeepSea-Net: A YOLO Based Framework for Real-Time Detection and Classification of Underwater Plastic Pollution (Accepted)**</span>  
+<span style="color:#ffdb56;">**DeepSea-Net: A YOLO Based Framework for Real-Time Detection and Classification of Underwater Plastic Pollution**</span>  
 Progga Parmita Roy, Sabbir Sarder Munna, Md. Sazed Ul Karim, <span style="color:#51ccff;">*Md. Abdur Rahman*</span>, Md. Tofael Ahmed Bhuiyan, Md. Joseb Siddique Siam  
 *2025 IEEE 7th International Conference on Sustainable Technologies for Industry 5.0 (STI 2025)*  
 [**PDF**](/files/DeepSea_Net.pdf)
