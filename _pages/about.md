@@ -34,7 +34,7 @@ My current goal is to publish impactful research papers in top-tier CORE A*/A co
 
 **Oct 1, 2025 :**   I started working as *Research Assistant* at **FinTech Research CI Lab, IUT**.
 
-## 📓 Published / Accepted Publications  
+## 📓 Selected Publications  
 <span style="color:#8B4513;">**MangoLeafNet-XAI: An Attention-Enhanced Deep Learning Architecture for Accurate and Interpretable Mango Leaf Disease Classification**</span>  
 <span style="color:#2E5EAA;">*Md. Abdur Rahman*</span>, Md. Tofael Ahmed Bhuiyan, Farzan Majeed Noori, Md Zia Uddin, Abdul Kadar Muhammad Masum  
 *Frontiers in Plant Science*  
@@ -131,7 +131,7 @@ Md. Al Amin∗, Sabik Aftahee∗, <span style="color:#2E5EAA;">*Md. Abdur Rahman
 [**PDF**](/files/Caste_Tamil LDK 25.pdf)   
 
 
-## 📘 Under Review Publications   
+## 📘 Manuscripts Under Review 
 
 <span style="color:#8B4513;">**BEACON: A Novel Cross-Modal Architecture for High-Precision and Explainable Brain Tumor Classification Using Medical-Specific Attention**</span>  
 <span style="color:#2E5EAA;">*1st Author*</span>  
