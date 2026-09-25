@@ -30,7 +30,7 @@ author:
   location         : "Dhaka, Bangladesh"
   employer         : "Islamic University of Technology"
   uri              : # URL
-  email            : "abdurrahman.etc@gmail.com" 
+  email            : "moabdurrahmancs@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -84,9 +84,9 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Published/Accepted Papers'    
+    title: 'Selected Publications'    
   conferences:
-    title: 'Under Review Papers'
+    title: 'Manuscripts Under Review'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
