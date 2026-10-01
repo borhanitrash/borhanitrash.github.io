@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am **Md. Abdur Rahman**, a **Kaggle Dataset Grandmaster** and **Research Assistant at Islamic University of Technology-IUT, OIC**. I have recently completed my **B.Sc. in Computer Science and Engineering** at **Southeast University, Bangladesh**, graduating with a **3.87/4.00 CGPA** (**3.97 in last 60 credits**). I am currently pursuing **M.Sc. Engg in CSE at Military Institute of Science and Technology (MIST), Bangladesh**.
+I am **Md. Abdur Rahman**, a **Kaggle Dataset Grandmaster** and **Research Assistant at the Islamic University of Technology (IUT), OIC**. I recently completed my **B.Sc. in Computer Science and Engineering** at **Southeast University, Bangladesh**, graduating with a **3.87/4.00 CGPA** (**3.97 in the last 60 credits**). I am currently pursuing an **MS in CSE at the Military Institute of Science and Technology (MIST), Bangladesh**.
 
-My research interests lie broadly in **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**, with a particular focus on:  
+My research interests broadly span **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**, with a particular focus on:
 
-- Computer Vision and Medical Image Analysis   
-- NLP for Low Resourced Language
+- Computer Vision and Medical Image Analysis
+- NLP for Low-Resource Languages
 
-My current goal is to publish impactful research papers in top-tier CORE A*/A conferences and continue developing **efficient, high-accuracy AI models** that address real-world challenges, particularly in **healthcare and low-resource environments**.  
+My current goal is to publish impactful research in top-tier CORE A*/A conferences and continue developing **efficient and responsible AI** models that address real-world challenges, particularly in **healthcare and low-resource environments**.
 
 
 ## 📰 News
