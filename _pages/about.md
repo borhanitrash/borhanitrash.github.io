@@ -14,25 +14,22 @@ My research interests lie broadly in **Artificial Intelligence**, **Machine Lear
 
 - Computer Vision and Medical Image Analysis   
 - NLP for Low Resourced Language
-- AI for Fintech
-
 My current goal is to publish impactful research papers in top-tier CORE A*/A conferences and continue developing **efficient, high-accuracy AI models** that address real-world challenges, particularly in **healthcare and low-resource environments**.  
 
 
 ## 📰 News
-**Apr 01, 2026 :** Paper **"Bridging Data Silos in Corporate Governance: A Hierarchical Stacking Ensemble with Federated Dynamic Aggregation"** accepted at **Applied Computational Intelligence and Soft Computing (IF: 2.9, Q1, WoS: ESCI)**.
+**Sep 11, 2026:** **Our team, COiN Lab,** secured **2nd Runner-Up** at the **REACT 2026 Datathon**, hosted by the **IEEE Southeast University Student Branch**.
+
+**Aug 3, 2026:** Our **9th journal paper**, *“Integrating Domain-Specific Convolutional Features with Swin Transformers for Transparent Cervical Cancer Diagnostics,”* has been accepted by **Frontiers in Oncology** (**IF: 3.4, WoS: SCIE**).
+
+**Jun 6, 2026:** Three of our papers have been accepted by the **6th Muslims in Machine Learning (MuslimML) Workshop at ICML 2026**.
 
 **Dec 28, 2025 :**   Achieved **3rd Position (Poster Presentation)** at **Student Research Day 2025, Southeast University**.
 
-**Nov 6, 2025 :**   Our paper *“ChakmaBridge: A Five-Way Parallel Corpus for Navigating the Script Divide in an Endangered Language”* (**1st Author**) has been accepted by **Second Bangla Language Processing Workshop (BLP 2025) at AACL-IJCNLP 2025**.  
-
-**Nov 6, 2025 :**   Our paper *“BhasaBodh: Bridging Bangla Dialects and Romanized Forms through Machine Translation”* (**1st Co-Author**) has been accepted by **Second Bangla Language Processing Workshop (BLP 2025) at AACL-IJCNLP 2025**.  
+**Nov 6, 2025:** Two of our papers have been accepted by the **Second Bangla Language Processing Workshop (BLP 2025) at AACL-IJCNLP 2025**
 
 **Oct 17, 2025 :**   Our paper *“AlzFed-XAI: High-Fidelity Interpretable Alzheimer’s Diagnosis with Privacy-Preserving Federated Learning”* (**1st Author**) has been accepted by **Muslim in ML Workshop, NeurIPS**.  
 
-**Oct 7, 2025 :**   Reviewed *two papers* for **Muslim in ML Workshop, NeurIPS**.  
-
-**Oct 1, 2025 :**   I started working as *Research Assistant* at **FinTech Research CI Lab, IUT**.
 
 ## 📓 Selected Publications  
 <span style="color:#8B4513;">**MangoLeafNet-XAI: An Attention-Enhanced Deep Learning Architecture for Accurate and Interpretable Mango Leaf Disease Classification**</span>  
