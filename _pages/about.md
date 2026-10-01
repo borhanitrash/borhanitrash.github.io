@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Md. Abdur Rahman**, a **Kaggle Dataset Grandmaster** and **Research Assistant at Islamic University of Technology-IUT, OIC**. I have recently completed my **B.Sc. in Computer Science and Engineering** at **Southeast University, Bangladesh**, graduating with a **CGPA of 3.87**. I am currently pursuing **M.Sc. Engg in CSE at Military Institute of Science and Technology (MIST), Bangladesh**.
+I am **Md. Abdur Rahman**, a **Kaggle Dataset Grandmaster** and **Research Assistant at Islamic University of Technology-IUT, OIC**. I have recently completed my **B.Sc. in Computer Science and Engineering** at **Southeast University, Bangladesh**, graduating with a **3.87/4.00 CGPA** (**3.97 in last 60 credits**). I am currently pursuing **M.Sc. Engg in CSE at Military Institute of Science and Technology (MIST), Bangladesh**.
 
 My research interests lie broadly in **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**, with a particular focus on:  
 
@@ -19,7 +19,7 @@ My current goal is to publish impactful research papers in top-tier CORE A*/A co
 
 
 ## 📰 News
-**Sep 11, 2026:** **Our team, COiN Lab,** secured **2nd Runner-Up** at the **REACT 2026 Datathon**, hosted by the **IEEE Southeast University Student Branch**.
+**Sep 11, 2026:** Our team secured **2nd Runner-Up** at the **REACT 2026 Datathon**, hosted by the **IEEE Southeast University Student Branch**.
 
 **Aug 3, 2026:** Our **9th journal paper**, *“Integrating Domain-Specific Convolutional Features with Swin Transformers for Transparent Cervical Cancer Diagnostics,”* has been accepted by **Frontiers in Oncology** (**IF: 3.4, WoS: SCIE**).
 
@@ -131,12 +131,8 @@ Md. Al Amin∗, Sabik Aftahee∗, <span style="color:#2E5EAA;">*Md. Abdur Rahman
 
 ## 📘 Manuscripts Under Review 
 
-<span style="color:#8B4513;">**BEACON: A Novel Cross-Modal Architecture for High-Precision and Explainable Brain Tumor Classification Using Medical-Specific Attention**</span>  
+<span style="color:#8B4513;">**HA-DynAU-Net: A Hybrid Attention Dynamic Aware U-Net for Precise Skin Lesion Segmentation**</span>  
 <span style="color:#2E5EAA;">*1st Author*</span>  
-*Submitted to International Journal of Intelligent Systems (Q1 Journal)*
-
-<span style="color:#8B4513;">**HybridTransUNet: Fusing Vision Transformers with Attentive U-Net for Accurate and Interpretable Brain Tumor Segmentation**</span>  
-<span style="color:#2E5EAA;">*1st Author*</span>  
-*Submitted to International Journal of Intelligent Systems (Q1 Journal)*
+*Submitted to IEEE Open Journal of the Computer Society*
 
 
