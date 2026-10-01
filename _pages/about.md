@@ -15,7 +15,7 @@ My research interests broadly span **Artificial Intelligence**, **Machine Learni
 - Computer Vision and Medical Image Analysis
 - NLP for Low-Resource Languages
 
-My current goal is to publish impactful research in top-tier CORE A*/A conferences and continue developing **efficient and responsible AI** models that address real-world challenges, particularly in **healthcare and low-resource environments**.
+My current goal is to publish impactful research in top-tier CORE A*/A conferences and continue developing **efficient** and **responsible AI** models that address real-world challenges, particularly in **healthcare** and **low-resource environments**.
 
 
 ## 📰 News
