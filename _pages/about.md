@@ -14,6 +14,7 @@ My research interests lie broadly in **Artificial Intelligence**, **Machine Lear
 
 - Computer Vision and Medical Image Analysis   
 - NLP for Low Resourced Language
+
 My current goal is to publish impactful research papers in top-tier CORE A*/A conferences and continue developing **efficient, high-accuracy AI models** that address real-world challenges, particularly in **healthcare and low-resource environments**.  
 
 
