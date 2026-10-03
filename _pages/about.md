@@ -101,7 +101,7 @@ Md Tofael Ahmed Bhuiyan, <span style="color:#2E5EAA;">*Md. Abdur Rahman*</span>,
 <span style="color:#8B4513;">**ChakmaBridge: A Five-Way Parallel Corpus for Navigating the Script Divide in an Endangered Language**</span>  
 <span style="color:#2E5EAA;">*Md. Abdur Rahman*</span>, Md. Tofael Ahmed Bhuiyan, Abdul Kadar Muhammad Masum  
 *2nd Bangla LP Workshop, AACL-IJCNLP 2025*  
-[**[PDF]**](files/files/ChakmaBridge [Camera Ready].pdf)
+[**[PDF]**](files/ChakmaBridge [Camera Ready].pdf)
 
 <span style="color:#8B4513;">**BhasaBodh: Bridging Bangla Dialects and Romanized Forms through Machine Translation**</span>  
 Md. Tofael Ahmed Bhuiyan, <span style="color:#2E5EAA;">*Md. Abdur Rahman*</span>, Abdul Kadar Muhammad Masum  
