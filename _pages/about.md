@@ -119,7 +119,7 @@ Md. Tofael Ahmed Bhuiyan, <span style="color:#2E5EAA;">*Md. Abdur Rahman*</span>
 [**[PDF]**](files/FAKD_XAI ICDSAIA 25.pdf)
 
 <span style="color:#8B4513;">**X-ArsenicDistill: An Efficient and Interpretable Framework for Arsenicosis Classification via Knowledge Distillation**</span>  
-<span style="color:#2E5EAA;">*Md. Abdur Rahman*</span>, Md. Tofael Ahmed Bhuiyan, Mohammad Mahmudur Rahman, Iffat Sania Hossain, Abu Kowshir Bitto, Prof. Dr. Abdul Kadar Muhammad Masum*  
+<span style="color:#2E5EAA;">*Md. Abdur Rahman*</span>, Md. Tofael Ahmed Bhuiyan, Mohammad Mahmudur Rahman, Iffat Sania Hossain, Abu Kowshir Bitto, Abdul Kadar Muhammad Masum  
 *28th International Conference on Computer and Information Technology 2025*  
 [**[PDF]**](files/X-ArsenicDistill.pdf)
 
