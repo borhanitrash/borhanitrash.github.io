@@ -36,97 +36,97 @@ My current goal is to publish impactful research in top-tier CORE A*/A conferenc
 <span style="color:#8B4513;">**MangoLeafNet-XAI: An Attention-Enhanced Deep Learning Architecture for Accurate and Interpretable Mango Leaf Disease Classification**</span>  
 <span style="color:#2E5EAA;">*Md. Abdur Rahman*</span>, Md. Tofael Ahmed Bhuiyan, Farzan Majeed Noori, Md Zia Uddin, Abdul Kadar Muhammad Masum  
 *Frontiers in Plant Science*  
-[**PDF**](/files/mango.pdf) 
+[**[PDF]**](files/mango.pdf)
+
+<span style="color:#8B4513;">**Integrating Domain-Specific Convolutional Features with Swin Transformers for Transparent Cervical Cancer Diagnostics**</span>  
+<span style="color:#2E5EAA;">*Md. Abdur Rahman*</span>, Md. Tofael Ahmed Bhuiyan, Md Fokrul Islam KHAN, Md Zia Uddin, Ulysse Teller Masao Côté-Allard, Abdul Kadar Muhammad Masum  
+*Frontiers in Oncology*  
+[**[PDF]**](files/CAMF-Swin.pdf)
 
 <span style="color:#8B4513;">**FedMal-XAI: An Explainable Federated Vision Transformer Leveraging Knowledge Distillation for Privacy-Preserving Malaria Detection**</span>  
-<span style="color:#2E5EAA;">*Md. Abdur Rahman*</span>, Md. Tofael Ahmed Bhuiyan, Md Fokrul Islam Khan, Farzan M. Noori, Abdul Kadar Muhammad Masum  
+Md. Tofael Ahmed Bhuiyan, <span style="color:#2E5EAA;">*Md. Abdur Rahman*</span>, Md Fokrul Islam Khan, Farzan M. Noori, Abdul Kadar Muhammad Masum  
 *Frontiers in Public Health*  
-[**PDF**](/files/fedmal.pdf)
+[**[PDF]**](files/fedmal.pdf)
+
+<span style="color:#8B4513;">**DFU-GCNet: A Global Context-Enhanced Inception Network for Robust and Interpretable Diabetic Foot Ulcer Classification**</span>  
+Md. Tofael Ahmed Bhuiyan, <span style="color:#2E5EAA;">*Md. Abdur Rahman*</span>, Farzan M. Noori, Abdul Kadar Muhammad Masum  
+*Frontiers in Digital Health*  
+[**[PDF]**](files/DFU-GCNet.pdf)
+
+<span style="color:#8B4513;">**Privacy-Preserving ESG Risk Prediction via Federated Hybrid Neural-Boosting Ensembles**</span>  
+Abdul Kadar Muhammad Masum, Md. Abul Kalam Azad, <span style="color:#2E5EAA;">*Md. Abdur Rahman*</span>, Md. Tofael Ahmed Bhuiyan, Ramona Birău, Virgil Popescu  
+*IEEE Access*  
+[**[PDF]**](files/Fed-VES.pdf)
+
+<span style="color:#8B4513;">**EcoStack-Pro: An Adaptive Federated Learning Framework for Interpretable ESG Auditing Across Heterogeneous Industrial Sectors**</span>  
+Md. Abul Kalam Azad, Abdul Kadar Muhammad Masum, <span style="color:#2E5EAA;">*Md. Abdur Rahman*</span>, Md. Tofael Ahmed Bhuiyan, Farzan M. Noori, Md Zia Uddin  
+*Frontiers in Artificial Intelligence*  
+[**[PDF]**](files/EcoStack-Pro.pdf)
 
 <span style="color:#8B4513;">**Bridging Data Silos in Corporate Governance: A Hierarchical Stacking Ensemble with Federated Dynamic Aggregation**</span>  
-<span style="color:#2E5EAA;">*Md. Abdur Rahman*</span>, Abdul Kadar Muhammad Masum, Md. Abul Kalam Azad, Md. Tofael Ahmed Bhuiyan  
-*Applied Computational Intelligence and Soft Computing*
+Abdul Kadar Muhammad Masum, Md. Abul Kalam Azad, Md. Tofael Ahmed Bhuiyan, <span style="color:#2E5EAA;">*Md. Abdur Rahman*</span>  
+*Applied Computational Intelligence and Soft Computing*  
+[**[PDF]**](files/FedDWA.pdf)
 
-<span style="color:#8B4513;">**AlzFed-XAI: High-Fidelity Interpretable Alzheimer's Diagnosis with Privacy Preserving Federated Learning**</span>  
+<span style="color:#8B4513;">**Predicting Corporate Bankruptcy Through a Scalable and Interpretable Knowledge Distillation Framework**</span>  
+Md. Abul Kalam Azad, Abdul Kadar Muhammad Masum, <span style="color:#2E5EAA;">*Md. Abdur Rahman*</span>, Md. Tofael Ahmed Bhuiyan, Thanh Lam Nguyen, Hasan Dinçer, Serhat Yuksel  
+*Discover Artificial Intelligence*  
+[**[PDF]**](files/CBKD.pdf)
+
+<span style="color:#8B4513;">**Beyond Short-Term Noise: Robust Long-Horizon Bankruptcy Prediction Using Gated Dual-Branch Transformers**</span>  
+Rezwanul Huque Khan, Md. Abul Kalam Azad, Md. Tofael Ahmed Bhuiyan, <span style="color:#2E5EAA;">*Md. Abdur Rahman*</span>, Faisal Md. Abdur Rahman, Abdul Kadar Muhammad Masum  
+*Applied Computational Intelligence and Soft Computing*  
+[**[PDF]**](files/GST-Net.pdf)
+
+<span style="color:#8B4513;">**Do LLMs Distinguish Between Halal and Haram? Benchmarking Islamic Cultural Alignment in General vs. Arabic-Centric SLMs**</span>  
+<span style="color:#2E5EAA;">*Md. Abdur Rahman*</span>, Md Tofael Ahmed Bhuiyan, Abdul Kadar Muhammad Masum  
+*6th Muslims in ML Workshop, ICML 2026*  
+[**[PDF]**](files/ACE-Adapt.pdf)
+
+<span style="color:#8B4513;">**Tokenizer Transplantation: Mitigating Autoregressive Collapse in Edge-Efficient Bengali ASR**</span>  
+Sanjid Hasan, <span style="color:#2E5EAA;">*Md. Abdur Rahman*</span>  
+*6th Muslims in ML Workshop, ICML 2026*  
+[**[PDF]**](files/ASR.pdf)
+
+<span style="color:#8B4513;">**SFL-MTKD++: Split ViT Federated Learning with Adaptive Multi-Teacher Distillation for Interpretable Malaria Diagnosis**</span>  
+Md Tofael Ahmed Bhuiyan, <span style="color:#2E5EAA;">*Md. Abdur Rahman*</span>, Abdul Kadar Muhammad Masum  
+*6th Muslims in ML Workshop, ICML 2026*  
+[**[PDF]**](files/SFL-MTKD.pdf)
+
+<span style="color:#8B4513;">**AlzFed-XAI: High-Fidelity Interpretable Alzheimer's Diagnosis with Privacy-Preserving Federated Learning**</span>  
 <span style="color:#2E5EAA;">*Md. Abdur Rahman*</span>, Md. Tofael Ahmed Bhuiyan, Abdul Kadar Muhammad Masum  
-*5th Muslims in ML Workshop co-located with NeurIPS 2025*  
-[**PDF**](/files/AlzFed_XAI.pdf)   
+*5th Muslims in ML Workshop, NeurIPS 2025*  
+[**[PDF]**](files/AlzFed_XAI.pdf)
 
 <span style="color:#8B4513;">**ChakmaBridge: A Five-Way Parallel Corpus for Navigating the Script Divide in an Endangered Language**</span>  
 <span style="color:#2E5EAA;">*Md. Abdur Rahman*</span>, Md. Tofael Ahmed Bhuiyan, Abdul Kadar Muhammad Masum  
-*Second Bangla Language Processing Workshop co-located with AACL-IJCNLP*  
-[**PDF**](/files/ChakmaBridge [Camera Ready].pdf)   
+*2nd Bangla LP Workshop, AACL-IJCNLP 2025*  
+[**[PDF]**](files/Cervical final.pdf)
 
 <span style="color:#8B4513;">**BhasaBodh: Bridging Bangla Dialects and Romanized Forms through Machine Translation**</span>  
 Md. Tofael Ahmed Bhuiyan, <span style="color:#2E5EAA;">*Md. Abdur Rahman*</span>, Abdul Kadar Muhammad Masum  
-*Second Bangla Language Processing Workshop co-located with AACL-IJCNLP*  
-[**PDF**](/files/BhashaBodh [Camera Ready].pdf)
+*2nd Bangla LP Workshop, AACL-IJCNLP 2025*  
+[**[PDF]**](files/BhashaBodh [Camera Ready].pdf)
 
 <span style="color:#8B4513;">**Detecting Manipulation in Ukrainian Telegram: A Transformer-Based Approach to Technique Classification and Span Identification**</span>  
-<span style="color:#2E5EAA;">*Md. Abdur Rahman*</span>, Md. Ashiqur Rahman  
-*Proceedings of the Fourth Ukrainian Natural Language Processing Workshop (UNLP 2025), Association for Computational Linguistics*  
-[**PDF**](/files/UNLP Workshop ACL 25.pdf)   
-
-<span style="color:#8B4513;">**MRAViT-XAI: A Novel Multi-Resolution Attention Vision Transformer Framework with Explainable AI for Enhanced Lung and Colon Cancer Classification**</span>  
-<span style="color:#2E5EAA;">*Md. Abdur Rahman*</span>, Sabik Aftahee, Lamim Zakir Pronay, Md. Ashiqur Rahman  
-*IEEE International Conference on Quantum Photonics, Artificial Intelligence, and Networking (QPAIN)*  
-[**PDF**](/files/MRAViT XAI IEEE QPAIN 25.pdf)   
+<span style="color:#2E5EAA;">*Md. Abdur Rahman*</span>, Md Ashiqur Rahman  
+*4th Ukrainian NLP Workshop (UNLP), ACL 2025*  
+[**[PDF]**](files/UNLP Workshop ACL 25.pdf)
 
 <span style="color:#8B4513;">**FAKD-XAI: Feature-Aligned Knowledge Distillation with Explainable AI for Efficient Brain Tumor Classification**</span>  
-<span style="color:#2E5EAA;">*Md. Abdur Rahman*</span>, Sabik Aftahee, Md. Ashiqur Rahman, Lamim Zakir Pronay  
-*International Conference on Data Science, AI and Applications (ICDSAIA)*  
-[**PDF**](/files/FAKD_XAI ICDSAIA 25.pdf)   
+<span style="color:#2E5EAA;">*Md. Abdur Rahman*</span>, Sabik Aftahee, Md Ashiqur Rahman, Lamim Zakir Pronay  
+*International Conference on Data Science, AI and Applications (ICDSAIA 2025)*  
+[**[PDF]**](files/FAKD_XAI ICDSAIA 25.pdf)
 
-<span style="color:#8B4513;">**SmolLab SEU at BEA 2025 Shared Task: A Transformer-Based Framework for Multi-Track Pedagogical Evaluation of AI-Powered Tutors**</span>  
-<span style="color:#2E5EAA;">*Md. Abdur Rahman*</span>, Md. Al Amin, Sabik Aftahee, Muhammad Junayed, Md. Ashiqur Rahman  
-*Proceedings of the 20th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2025), Association for Computational Linguistics*  
-[**PDF**](/files/BEA Workshop ACL 25.pdf)   
-
-<span style="color:#8B4513;">**SmolLab SEU at MAHED 2025: Do Arabic-Native Encoders Surpass Multilingual Models in Detecting the Nuances of Hope, Hate, and Emotion?**</span>  
-<span style="color:#2E5EAA;">*Md. Abdur Rahman*</span>, Md. Sabbir Dewan, Md. Tofael Ahmed Bhuiyan, Md. Ashiqur Rahman  
-*Proceedings of the Third Arabic Natural Language Processing Conference (ArabicNLP 2025), Empirical Methods in Natural Language Processing (EMNLP 2025)*  
-[**PDF**](/files/17_SmolLab_SEU_at_MAHED_2025_D.pdf)    
-
-<span style="color:#8B4513;">**FedAvg-ResNet50: Privacy-Preserving Explainable Acute Leukemia Classification**</span>  
-Md. Tofael Ahmed Bhuiyan, <span style="color:#2E5EAA;">*Md. Abdur Rahman*</span>, Zakir Hossain, Md. Fokrul Islam Khan, Abdul Kadar Muhammad Masum  
-*5th International Conference on Applied Intelligence and Informatics (AII 2025, USA)*  
-[**PDF**](/files/Leukemia using FedAvg+ResNet50 AII25 .pdf)  
-
-<span style="color:#8B4513;">**PneumoniaXAttnNet: An Attention-Driven Xception Framework for Accurate Pneumonia Classification with XAI**</span>  
-Tanvir Ahmed, <span style="color:#2E5EAA;">*Md. Abdur Rahman*</span>, Md. Delower Hossain, Yousuf Howlader, Md. Mahi Uddin, Md. Tajuddin, Md. Illeas Hossain, Md. Mijanur Rahman  
-*2nd IEEE Conference on Computing Applications and Systems (COMPAS 2025)*  
-[**PDF**](/files/Lung_Pneumonia__Review final.pdf)   
-
-<span style="color:#8B4513;">**CerviTrans-XAI: An Explainable Vision Transformer Ensemble for Accurate Cervical Cancer Classification**</span>  
-Md. Delower Hossain, Md. Mijanur Rahman, <span style="color:#2E5EAA;">*Md. Abdur Rahman*</span>, Tanvir Ahmed, Sujay Dhar, Ornab Biswass  
-*2nd IEEE Conference on Computing Applications and Systems (COMPAS 2025)*  
-[**PDF**](/files/Cervical final.pdf)   
-
-<span style="color:#8B4513;">**Advancing Military Cybersecurity: A Scalable Ensemble Network Intrusion Detection System Framework with SHAP Analysis for Military Operations**</span>  
-Md. Tofael Ahmed Bhuiyan, <span style="color:#2E5EAA;">*Md. Abdur Rahman*</span>, Prof. Dr. Abdul Kadar Muhammad Masum, Arif Hossen, Md Ruhul Rabbi  
-*6th IEEE International Conference on Telecommunications and Photonics (ICTP 2025)*  
-[**PDF**](/files/BUET ICTP 2025 orginal.pdf)
+<span style="color:#8B4513;">**X-ArsenicDistill: An Efficient and Interpretable Framework for Arsenicosis Classification via Knowledge Distillation**</span>  
+<span style="color:#2E5EAA;">*Md. Abdur Rahman*</span>, Md. Tofael Ahmed Bhuiyan, Mohammad Mahmudur Rahman, Iffat Sania Hossain, Abu Kowshir Bitto, Prof. Dr. Abdul Kadar Muhammad Masum*  
+*28th International Conference on Computer and Information Technology 2025*  
+[**[PDF]**](files/X-ArsenicDistill.pdf)
 
 <span style="color:#8B4513;">**DeepSea-Net: A YOLO Based Framework for Real-Time Detection and Classification of Underwater Plastic Pollution**</span>  
 Progga Parmita Roy, Sabbir Sarder Munna, Md. Sazed Ul Karim, <span style="color:#2E5EAA;">*Md. Abdur Rahman*</span>, Md. Tofael Ahmed Bhuiyan, Md. Joseb Siddique Siam  
-*2025 IEEE 7th International Conference on Sustainable Technologies for Industry 5.0 (STI 2025)*  
-[**PDF**](/files/DeepSea_Net.pdf)
-
-<span style="color:#8B4513;">**SmolLab SEU at CheckThat! 2025: How Well Do Multilingual Transformers Transfer Across News Domains for Cross-lingual Subjectivity Detection?**</span>  
-<span style="color:#2E5EAA;">*Md. Abdur Rahman*</span>, Md. Al Amin, Md. Sabbir Dewan, Md. Jahid Hasan, Md. Ashiqur Rahman  
-*CheckThat! Lab Workshop, 16th Conference and Labs of the Evaluation Forum*  
-[**PDF**](/files/CheckThat Lab_at_CLEF_2025.pdf)   
-
-<span style="color:#8B4513;">**Hinterwelt@LT-EDI 2025: A Transformer-Based Approach for Identifying Racial Hoaxes in Code-Mixed Hindi-English Social Media Narratives**</span>  
-<span style="color:#2E5EAA;">*Md. Abdur Rahman*</span>, Md. Al Amin, Sabik Aftahee, Md. Ashiqur Rahman  
-*LT-EDI Workshop, 5th Conference on Language, Data and Knowledge*  
-[**PDF**](/files/SOCIAL_MEDIA LDK 25.pdf)   
-
-<span style="color:#8B4513;">**Hinterwelt@LT-EDI 2025: A Transformer-Based Detection of Caste and Migration Hate Speech in Tamil Social Media**</span>  
-Md. Al Amin∗, Sabik Aftahee∗, <span style="color:#2E5EAA;">*Md. Abdur Rahman*</span>∗, Md. Sajid Hossain Khan, Md. Ashiqur Rahman  
-*LT-EDI Workshop, 5th Conference on Language, Data and Knowledge*  
-∗Authors contributed equally to this work.  
-[**PDF**](/files/Caste_Tamil LDK 25.pdf)   
+*7th IEEE International Conference on Sustainable Technologies for Industry 5.0 (STI 2025)*  
+[**[PDF]**](files/DeepSea_Net.pdf) 
 
 
 ## 📘 Manuscripts Under Review 
