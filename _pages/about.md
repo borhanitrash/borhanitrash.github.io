@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Md. Abdur Rahman**, a **Kaggle Dataset Grandmaster** and **Research Assistant at the Islamic University of Technology (IUT), OIC**. I recently completed my **B.Sc. in Computer Science and Engineering** at **Southeast University, Bangladesh**, graduating with a **3.87/4.00 CGPA** (**last 60 credits: 3.97**). I am currently pursuing an **MS in CSE at the Military Institute of Science and Technology (MIST), Bangladesh**.
+I am **Md. Abdur Rahman**, a **Kaggle Dataset Grandmaster** and **Research Assistant at the Islamic University of Technology (IUT), OIC**. I recently completed my **B.Sc. in Computer Science and Engineering** at **Southeast University, Bangladesh**, graduating with a **3.87/4.00 CGPA** (**last 60 credits: 3.97**). I am currently pursuing an **MSc in CSE at the Military Institute of Science and Technology (MIST), Bangladesh**.
 
 My research interests broadly span **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**, with a particular focus on:
 
